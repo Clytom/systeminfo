@@ -1,2 +1,2 @@
-# systeminfo
-a tools for get computer hardware ,net,operation system info
+# Python 获取硬件，网络，端口信息
+
